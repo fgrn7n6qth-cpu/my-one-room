@@ -23,6 +23,7 @@ APPLICATION_DRAFT.md
 PORTFOLIO_NOTES.md
 *.zip
 *.pptx
+!docs/portfolio/*.pptx
 
 # Local runtime data
 data/*.json
