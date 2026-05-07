@@ -1,0 +1,12 @@
+# Copy this file to .mail-local.properties and fill in your Naver account.
+
+SPRING_MAIL_HOST=smtp.naver.com
+SPRING_MAIL_PORT=465
+SPRING_MAIL_USERNAME=your-id
+SPRING_MAIL_PASSWORD=your-12-char-app-password
+SPRING_MAIL_SMTP_AUTH=true
+SPRING_MAIL_SMTP_STARTTLS_ENABLE=false
+SPRING_MAIL_SMTP_STARTTLS_REQUIRED=false
+SPRING_MAIL_SMTP_SSL_ENABLE=true
+SPRING_MAIL_SMTP_SSL_TRUST=smtp.naver.com
+APP_MAIL_FROM=your-id@naver.com
