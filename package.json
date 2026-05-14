@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node scripts/run-frontend-tests.mjs",
-    "ppt:portfolio": "node scripts/generate-portfolio-ppt-v5-visual.mjs"
+    "ppt:portfolio": "node scripts/generate-portfolio-ppt-clear.mjs"
   },
   "dependencies": {
     "@react-three/fiber": "^9.5.0",
