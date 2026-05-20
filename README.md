@@ -183,7 +183,7 @@ cd backend
 
 ## Portfolio Material
 
-- [My One Room Portfolio PPT](docs/portfolio/MyOneRoom_Portfolio.pptx)
+- [My One Room Portfolio PDF](docs/portfolio/MyOneRoom_Portfolio.pdf)
 
 ## What I Focused On
 
