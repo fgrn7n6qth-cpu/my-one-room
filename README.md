@@ -1,5 +1,8 @@
 # Room Planner
 
+## Portfolio Material
+https://drive.google.com/file/d/1G5s7ZHH5BNY1N3F5nywchKenp8xB8v9y/view?usp=sharing
+
 원룸 구조에 맞춰 가구를 배치하고, 2D/3D 화면으로 결과를 확인할 수 있는 공간 배치 웹 서비스입니다.
 
 사용자는 원룸 크기를 선택한 뒤 가구를 추가, 이동, 회전, 크기 조절할 수 있으며, 배치 상태를 기반으로 부족한 가구 추천과 상품 검색 흐름까지 확인할 수 있습니다.
@@ -181,9 +184,6 @@ cd backend
 ./mvnw.cmd test
 ```
 
-## Portfolio Material
-
-- [My One Room Portfolio PDF](docs/portfolio/MyOneRoom_Portfolio.pdf)
 
 ## What I Focused On
 
